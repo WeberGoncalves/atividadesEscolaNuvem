@@ -1,0 +1,5 @@
+comprimento = int(input('digite comprimento: '))
+largura = int(input('digite largura: '))
+altura = int(input('digite altura: '))
+volume = float(comprimento*largura*altura)
+print(f"O volume é : {volume}")

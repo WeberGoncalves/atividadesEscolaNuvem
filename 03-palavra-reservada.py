@@ -1,4 +1,4 @@
 #Encontre o erro e corrija-o
-class = "Tecnologia"
+classe = "Tecnologia"
 
-print(class)
+print(classe) #class é uma palavra reservada do Python
